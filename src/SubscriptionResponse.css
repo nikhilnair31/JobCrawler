@@ -1,0 +1,16 @@
+/* SubscriptionResponse.css */
+.subscription-response-card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    width: 100%;
+    max-width: 300px;
+}
+
+.subscription-response-content {
+    font-size: 16px;
+    /* Add other styles for text formatting if needed */
+}
