@@ -1,3 +1,5 @@
+![spook.png](https://pbxt.replicate.delivery/BQAmE4HRsQL0EBOiUQbnbynfwDiSzoMv4TNHYG7e002wVkqRA/discoart-result.png)
+
 # JobCrawler README
 Welcome to JobCrawler! This is a React-based web application designed to automate the job hunting process by leveraging the Metaphor API and OpenAI, deployed on Firebase and using AWS Lambda for the serverless architecture. It scours across teh interet to curate a list of job postings based on the technologies and projects individuals are working on based on your GitHub profile. Here's a glimpse into how JobCrawler can turbocharge your job search or talent acquisition strategy.
 
